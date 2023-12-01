@@ -1,0 +1,34 @@
+[
+    {
+        "id": "sport",
+        "label": "Спорт",
+        "visual": {
+            "main": "/categories/sport.png",
+            "double": "/categories/sport@2x.png"
+        }
+    },
+    {
+        "id": "health",
+        "label": "Здоровье",
+        "visual": {
+            "main": "/categories/health.png",
+            "double": "/categories/health@2x.png"
+        }
+    },
+    {
+        "id": "subscriptions",
+        "label": "Подписки",
+        "visual": {
+            "main": "/categories/subscriptions.png",
+            "double": "/categories/subscriptions@2x.png"
+        }
+    },
+    {
+        "id": "food",
+        "label": "Еда",
+        "visual": {
+            "main": "/categories/food.png",
+            "double": "/categories/food@2x.png"
+        }
+    }
+]
